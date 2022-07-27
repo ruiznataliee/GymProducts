@@ -1,0 +1,98 @@
+
+  [
+        {
+            "title":"Adjustable Kettlebells",
+            "price": "$99.99",
+            "image":"images/Kettlebell.jpeg",
+            "description":"Allows you to go from 10lb to a 40lb weight by easily attaching 4.5 - 6 plates."
+        }
+    ,
+    
+    {
+        "title":"My T-Roller",
+        "price": "$40",
+        "image":"images/roller.jpeg",
+        "description":"The My T-Roller helps with breaking up deep muscle tension, improves range of motion & mobility, and reduces stress & pain held in tight muscles."
+    }
+,
+
+{
+    "title":"Pthage dumbbell set",
+    "price": "$89.99",
+    "image":"images/bell.jpeg",
+    "description":"Comes with 3 kinds of weight plates, which will allow you to create different weight combinations with the dumbbells and customize workouts."
+}
+,
+
+{
+    "title":"Fitbit",
+    "price": "$129.95",
+    "image":"images/fit.png",
+    "description":"Currently the most advanced fitness watch. It can track your stress levels and heart health."
+}
+,
+
+{
+    "title":"Better Body Barbell and Weight Bundle |5-45lb",
+    "price": "$719.95",
+    "image":"images/weight.webp",
+    "description":"The Better Body Barbell and Weight Bundle is a perfect package deal to get you set up with barbell lifting basics. This bundle delivers a premium experience for all experience levels."
+}
+,
+
+{
+    "title":"Bowflex - Treadmill 22 - Black",
+    "price": "$2,699.99",
+    "image":"images/tread.jpeg",
+    "description":"This treadmill 22 provides the coaching, motivation, and variety you crave to keep you engaged in your fitness journey."
+}
+,
+
+{
+    "title":"Thick Yoga Mat Fitness & Exercise Mat ",
+    "price": "$21.98",
+    "image":"images/Matt.jpeg",
+    "description":"With its textured grip, convenient carrying straps, and ideal thickness, the Gaiam Essentials exercise mat isn’t just functional, it also looks good!"
+}
+,
+
+{
+    "title":"Resistance Bands",
+    "price": "$13.33",
+    "image":"images/bands.jpeg",
+    "description":"These resistance bands have three different levels such, as light, medium, and difficult. These bands will help shape the body you’re searching for; whether you’re a beginner or a pro, you can easily switch between the three levels."
+}
+,
+
+{
+    "title":"FULL SET Multi Strength Fitness Station ",
+    "price": "$2550",
+    "image":"images/full set.jpeg",
+    "description":"This machine will save you money and space in your home gym. It comes with 5 different stations all in one such, as Arm Curl, Back Leg Curl, Back Stretch Bench, Bench Press, and Dip Station."
+}
+,
+
+{
+    "title":"Adjustable Weight Bench",
+    "price": "$139.99",
+    "image":"images/bench.jpeg",
+    "description":"This weight bench is foldable and adjustable for any workout needed. Also, has a 600lbs weight capacity gives you a safe fitness experience, with no worry for stability."
+}
+,
+
+{
+    "title":"Commercial VU 19",
+    "price": "$999.99",
+    "image":"images/bike.jpeg",
+    "description":"This stationary exercise bike will ensure a smooth ride and enjoyment of your exercise. Easy to set up, easy to use, and comfortable."
+}
+,
+
+{
+    "title":"Fitness Gear Pro Half Rack",
+    "price": "$449.99",
+    "image":"images/rack.webp",
+    "description":"This power cage supports most strength training exercises such as pull-ups, dead lifts, pull-ups, curls, and some other lifts. The flexible design can be adjusted to fit your own height range and is compatible with most squat and upward movements."
+}
+
+    ]
